@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     <h1>我的电视</h1>
 <div align="center">
@@ -133,3 +134,7 @@ QQ群: 807328577
 - [IPV6直播源](https://github.com/zhumeng11/IPTV)
 - [live](https://github.com/fanmingming/live)
 - 等等
+=======
+# mytv-android
+电视直播软件
+>>>>>>> 3c0696b630c5ad316c0e085559c0108bb6f65286
